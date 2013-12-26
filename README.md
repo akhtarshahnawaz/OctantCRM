@@ -16,9 +16,10 @@ Installation
 
 1. Go to "OctantCRM/application/config/database.php"
 2. Edit Lines
-				$db['default']['username'] = '<YOUR DATABASE USERNAME>';
-				$db['default']['password'] = '<YOUR DATABASE PASSWORD>';
-				$db['default']['database'] = '<YOUR DATABASE NAME>';
+
+        $db['default']['username'] = '<YOUR DATABASE USERNAME>';
+        $db['default']['password'] = '<YOUR DATABASE PASSWORD>';
+        $db['default']['database'] = '<YOUR DATABASE NAME>';				
 
 
 3. Go to link  "<installation folder>/index.php/install"
